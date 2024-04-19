@@ -1,0 +1,4 @@
+zip-files
+npyscreen
+python-telegram-bot
+pycryptodome
